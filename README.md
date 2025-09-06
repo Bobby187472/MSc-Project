@@ -24,7 +24,7 @@ This work was completed as part of my MSc Data Science dissertation at *Universi
 ---
 
 ## Dataset
-- **Dataset**: [PlantWild](https://plant.id/plantwild) (18,542 images, 89 classes).  
+- **Dataset**: [PlantWild](https://huggingface.co/datasets/uqtwei2/PlantWild/tree/main) (18,542 images, 89 classes).  
 - **Why PlantWild?**  
   - Realistic, in-field images (lighting, occlusion, clutter).  
   - Broad coverage (33 crops, 59 diseased, 30 healthy).  
@@ -83,7 +83,7 @@ This work was completed as part of my MSc Data Science dissertation at *Universi
 ---
 
 ## References
-- [PlantWild Dataset](https://plant.id/plantwild)  
+- [PlantWild Dataset](https://huggingface.co/datasets/uqtwei2/PlantWild/tree/main)
 - Related works cited in dissertation.  
 - Frameworks: TensorFlow, Keras, Flask, Pyngrok, OpenCV.  
 
