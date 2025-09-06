@@ -51,9 +51,7 @@ This work was completed as part of my MSc Data Science dissertation at *Universi
 
 4. **Deployment**  
    - Flask API + lightweight frontend.  
-   - Accessible externally via Pyngrok tunnel.  
-
----
+   - Accessible externally via Pyngrok tunnel.
 
 ---
 
@@ -93,8 +91,3 @@ This work was completed as part of my MSc Data Science dissertation at *Universi
 
 ## Acknowledgements
 Thanks to **Mr. Karim Bouzoubaa** (supervisor), family, and colleagues for their guidance and support.  
-
----
-
-## 📜 License
-This project is licensed under the MIT License.  
